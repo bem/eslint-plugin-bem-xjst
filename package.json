@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-bem-xjst",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint environments for bem-xjst",
   "license": "MIT",
   "repository": "bem/eslint-plugin-bem-xjst",
