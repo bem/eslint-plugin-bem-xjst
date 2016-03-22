@@ -8,7 +8,7 @@ ESLint environments for bem-xjst
 [npm-img]:      https://img.shields.io/npm/v/eslint-plugin-bem-xjst.svg
 
 [travis]:       https://travis-ci.org/bem/eslint-plugin-bem-xjst
-[test-img]:     https://img.shields.io/travis/blond/eslint-plugin-bem-xjst.svg?label=tests
+[test-img]:     https://img.shields.io/travis/bem/eslint-plugin-bem-xjst.svg?label=tests
 
 This plugin includes two ESLint environments:
 
