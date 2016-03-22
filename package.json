@@ -1,0 +1,32 @@
+{
+  "name": "eslint-plugin-bem-xjst",
+  "version": "0.0.0",
+  "description": "ESLint environments for bem-xjst",
+  "license": "MIT",
+  "repository": "bem/eslint-plugin-bem-xjst",
+  "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
+  "keywords": [
+    "eslint",
+    "plugin",
+    "environments",
+    "bem-xjst",
+    "bemhtml",
+    "bemtree"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "2.4.0",
+    "eslint-config-pedant": "0.1.1"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "eslint ."
+  }
+}
