@@ -39,7 +39,6 @@ module.exports = {
         		def: false,
         		mode: false,
         		content: false,
-        		mix: false,
         		extend: false,
         		replace: false,
         		wrap: false
