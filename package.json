@@ -20,6 +20,9 @@
   "engines": {
     "node": ">= 0.10"
   },
+  "peerDependencies": {
+    "eslint": "2.11.1"
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "2.11.1",
