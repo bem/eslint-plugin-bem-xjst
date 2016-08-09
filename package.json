@@ -26,7 +26,7 @@
   "dependencies": {},
   "devDependencies": {
     "eslint": "^3.0.0",
-    "eslint-config-pedant": "0.5.1"
+    "eslint-config-pedant": "^0.7.0"
   },
   "scripts": {
     "test": "npm run lint",
