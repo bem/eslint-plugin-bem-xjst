@@ -21,11 +21,11 @@
     "node": ">= 0.10"
   },
   "peerDependencies": {
-    "eslint": "2.11.1"
+    "eslint": "^3.0.0"
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": "2.11.1",
+    "eslint": "^3.0.0",
     "eslint-config-pedant": "0.5.1"
   },
   "scripts": {
