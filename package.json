@@ -18,12 +18,15 @@
     "index.js"
   ],
   "engines": {
-    "node": ">= 0.10"
+    "node": ">= 4"
+  },
+  "peerDependencies": {
+    "eslint": "^3.0.0"
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": "2.11.1",
-    "eslint-config-pedant": "0.5.1"
+    "eslint": "^3.0.0",
+    "eslint-config-pedant": "^0.7.0"
   },
   "scripts": {
     "test": "npm run lint",
