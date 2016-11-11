@@ -23,7 +23,18 @@ module.exports = {
         		cls: false,
         		extend: false,
         		replace: false,
-        		wrap: false
+        		wrap: false,
+				addAttrs: false,
+				addElemMods: false,
+				addJs: false,
+				addMix: false,
+				addMods: false,
+				appendContent: false,
+				elemMod: false,
+				elemMods: false,
+				mods: false,
+				prependContent: false,
+				xjstOptions: false				
             }
         },
         bemtree: {
