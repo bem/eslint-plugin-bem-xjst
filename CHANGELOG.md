@@ -1,6 +1,13 @@
 Changelog
 =========
 
+v2.1.0 (2016-11-11)
+-------------------
+
+* Added missed bemhtml globals (@ErBlack [#27]).
+
+[#27]: https://github.com/bem/eslint-plugin-bem-xjst/pull/27
+
 v2.0.0 (2016-08-09)
 -------------------
 
