@@ -25,7 +25,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": ">= 3.3.0 < 6.0.0",
+    "eslint": ">= 3.3.0 < 5.0.0",
     "eslint-config-pedant": "^1.0.1"
   },
   "scripts": {
