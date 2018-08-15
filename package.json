@@ -21,12 +21,12 @@
     "node": ">= 4"
   },
   "peerDependencies": {
-    "eslint": ">= 3.3.0"
+    "eslint": ">= 3.3.0 < 6.0.0"
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": ">= 3.3.0",
-    "eslint-config-pedant": "^0.10.0"
+    "eslint": ">= 3.3.0 < 6.0.0",
+    "eslint-config-pedant": "^1.0.1"
   },
   "scripts": {
     "test": "npm run lint",
